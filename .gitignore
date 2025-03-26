@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# Docker and Image
+*.tar
+
 # C extensions
 *.so
 
